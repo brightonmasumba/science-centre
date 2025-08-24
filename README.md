@@ -1,23 +1,24 @@
-# Directory Zambia Nation science-centre Turkshop and Restrant 
-# Science Centre
+# DSNC Food Online Order Platform — Turkshop & Restaurant
 
-Welcome to the Science Centre project! This repository contains code and resources for a comprehensive science education platform.
+Welcome to the DSNC Food Online Order project! This repository provides the codebase and resources for an online food ordering system developed for the Directory Zambia Nation Science Centre (DSNC), specifically focused on Turkshop and Restaurant services.
 
 ## Overview
 
-Science Centre is designed to provide interactive learning experiences in various scientific disciplines. The platform aims to make science accessible, engaging, and fun for students, educators, and science enthusiasts.
+The DSNC Food Online Order Platform enables customers to conveniently browse menus, place food orders, and make payments online. The system is designed to streamline the ordering process for both the Turkshop and DSNC Restaurant, providing a seamless digital experience for users.
 
 ## Features
 
-- Interactive modules for Physics, Chemistry, Biology, and more
-- Quizzes and assessments to test knowledge
-- Multimedia content including videos, animations, and simulations
-- User profiles and progress tracking
-- Community features for discussion and collaboration
+- Browse Turkshop and Restaurant menus with images and descriptions
+- Place food orders online and customize selections
+- Real-time order tracking and status updates
+- Secure payment gateway integration
+- User profiles for order history and preferences
+- Admin dashboard for managing orders, menu items, and analytics
+- Email and SMS notifications for order confirmations and updates
 
 ## Getting Started
 
-To get started with Science Centre, follow these steps:
+To get started with the DSNC Food Online Order Platform, follow these steps:
 
 1. **Clone the repository**
    ```bash
@@ -26,18 +27,17 @@ To get started with Science Centre, follow these steps:
 
 2. **Install dependencies**
    ```bash
-   # Example using npm (if it's a Node.js project)
+   # Example using npm (if Node.js project)
    npm install
    ```
 
 3. **Run the application**
    ```bash
-   # Example for starting a local server
    npm start
    ```
 
-4. **Open your browser**
-   - Visit [http://localhost:3000](http://localhost:3000) (or the configured port)
+4. **Access the platform**
+   - Open your browser and go to [http://localhost:3000](http://localhost:3000) (or your configured local port)
 
 ## Contributing
 
@@ -48,7 +48,7 @@ We welcome contributions! To contribute:
 - Commit your changes
 - Submit a pull request
 
-Please read our [contributing guidelines](CONTRIBUTING.md) for more details.
+Please review our [contributing guidelines](CONTRIBUTING.md) for more details.
 
 ## License
 
